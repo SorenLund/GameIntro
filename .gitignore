@@ -1,0 +1,15 @@
+.svn/
+.vs/
+packages/
+UpgradeLog.htm
+_Published/
+*.suo
+*.user
+SerializerHelperTest/obj/
+UpgradeLog2.htm
+*.orig
+
+GameIntro/bin/
+GameIntro/obj/
+GameIntro.Test/bin/
+GameIntro.Test/obj/
